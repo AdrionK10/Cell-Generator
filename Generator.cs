@@ -43,7 +43,7 @@ public class Generator
             else letters.Add(sprout);
         }
 
-        var bunny = cell * row + Math.Max(nums.Count,letters.Count) - Math.Min(nums.Count,letters.Count) + 9;
+        var bunny = cell * row + Math.Max(nums.Count,letters.Count) - Math.Min(nums.Count,letters.Count);
 
         foreach (var letter in letters)
         {
@@ -72,12 +72,20 @@ public class Generator
         for (int i = 0; i < patternRoot.Length; i++)
         {
             var gene = Convert.ToInt32(patternRoot[i].ToString().Last().ToString());
-            if ((gene % 2) == 1)
-                dna++;
+            if (gene == 0)
+                gene++;
+            if (Odd.Contains(gene.ToString()))
+            {
+                if (gene % (Odd.Length - Odd.ToList().IndexOf(gene.ToString())) == 1)
+                    dna++;
+            }
             else
                 nothing++;
         }
-        return dna > nothing ? "O" : "-";
+
+        var life = Math.Max(nothing, dna) - Math.Min(nothing, dna);
+
+        return life > 15 ? "-" : "O";
     }
 
     private List<string> ChopSeed(string seed)

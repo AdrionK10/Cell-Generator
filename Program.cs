@@ -9,5 +9,5 @@ Console.Write("(optional) Enter Seed: ");
 var seedInput = Console.ReadLine();
 var seed = string.IsNullOrEmpty(seedInput)?  generator.RandomSeed(seedLength): seedInput;
 
-generator.GenerateRows(seed.Replace(" ",""),325,640);
+generator.GenerateRows(seed.Replace(" ",""),200,200);
 
