@@ -1,0 +1,15 @@
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\bin\Debug\net6.0\CGOLCellGenerator.exe
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\bin\Debug\net6.0\CGOLCellGenerator.deps.json
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\bin\Debug\net6.0\CGOLCellGenerator.runtimeconfig.json
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\bin\Debug\net6.0\CGOLCellGenerator.dll
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\bin\Debug\net6.0\CGOLCellGenerator.pdb
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\obj\Debug\net6.0\CGOLCellGenerator.csproj.AssemblyReference.cache
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\obj\Debug\net6.0\CGOLCellGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\obj\Debug\net6.0\CGOLCellGenerator.AssemblyInfoInputs.cache
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\obj\Debug\net6.0\CGOLCellGenerator.AssemblyInfo.cs
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\obj\Debug\net6.0\CGOLCellGenerator.csproj.CoreCompileInputs.cache
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\obj\Debug\net6.0\CGOLCellGenerator.dll
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\obj\Debug\net6.0\refint\CGOLCellGenerator.dll
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\obj\Debug\net6.0\CGOLCellGenerator.pdb
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\obj\Debug\net6.0\CGOLCellGenerator.genruntimeconfig.cache
+C:\Users\adrion\RiderProjects\CGOLCellGenerator\obj\Debug\net6.0\ref\CGOLCellGenerator.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+O7hNzwm7aUg3pqgis/FBzOWcv2Tz1tGBQy3DDKxdUeRPpBZm4RfdhPcq53d45KlmmItR/cu/rKyx/UaZy2oKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adrion\\RiderProjects\\CGOLCellGenerator\\CGOLCellGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adrion\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.2\\microsoft.netcore.app.runtime.win-x86.6.0.2.nupkg.sha512",
+    "C:\\Users\\adrion\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.2\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.2.nupkg.sha512",
+    "C:\\Users\\adrion\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.2\\microsoft.aspnetcore.app.runtime.win-x86.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

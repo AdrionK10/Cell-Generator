@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CGOLCellGenerator/1.0.0": {
+        "runtime": {
+          "CGOLCellGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CGOLCellGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
