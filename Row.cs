@@ -1,4 +1,4 @@
-﻿namespace CGOLCellGenerator;
+﻿namespace GoLCellGenerator;
 
 public class Row
 {
